@@ -15,10 +15,25 @@
 			'douyu' => 'jdqs',
 			'panda' => 'pubg'
 		),
+		'dnf'=> array(
+			'name' => 'DNF',
+			'douyu' => 'DNF',
+			'panda' => 'dnf'
+		),
+		'zhuji'=> array(
+			'name' => '主机',
+			'douyu' => 'TVgame',
+			'panda' => 'zhuji'
+		),
 		'hw'=> array(
 			'name' => '户外',
 			'douyu' => 'HW',
 			'panda' => 'hwzb'
+		),
+		'show'=> array(
+			'name' => '娱乐星秀',
+			'douyu' => '',
+			'panda' => 'yzdr'
 		)
 	);
 

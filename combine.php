@@ -7,10 +7,10 @@
       
       $obj = array(
 
-          'douyu' => new douyu_pc(),
-          'panda' => new panda_pc()
+        'douyu' => new douyu_pc(),
+        'panda' => new panda_pc()
 
-        );
+      );
     
 
       $type = isset($_GET['id']) ? $_GET['id'] : 'lol' ;
@@ -20,7 +20,6 @@
       $stack =  array();
       $start = 0;
       foreach ($obj as $key => $object) {
-        
 
         $className = $GLOBALS['_CONFIG_'][$type][$key];
         if($className == ''){continue;}

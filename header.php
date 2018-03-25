@@ -21,13 +21,19 @@
   		<ul class="head-nav fl">
   			
   			<li class="fl live current">
-          <a href="index.php?id=lol">英雄联盟</a>
+          <a href="index.php?id=lol">LOL</a>
         </li>
         <li class="fl live current">
-          <a href="index.php?id=jdqs">绝地求生</a>
+          <a href="index.php?id=dnf">DNF</a>
         </li>
         <li class="fl live current">
-          <a href="/show">娱乐秀</a>
+          <a href="index.php?id=jdqs">PUBG</a>
+        </li>
+        <li class="fl live current">
+          <a href="index.php?id=zhuji">主机</a>
+        </li>
+        <li class="fl live current">
+          <a href="index.php?id=show">娱乐秀</a>
         </li>
         <li class="fl live current">
           <a href="index.php?id=hw">户外</a>
